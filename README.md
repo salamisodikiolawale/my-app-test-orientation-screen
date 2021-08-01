@@ -8,4 +8,3 @@ There is not much to install, just use import the Dimensions of react-native and
 
 
 
-Translated with www.DeepL.com/Translator (free version)
